@@ -45,7 +45,7 @@ Birmingham City University 	BSC Film Production & Technology
 
 ##Experience
 
-###Makers Academy (Student)
-###Music Concierge (Music Team)
-###Mixmag (Paid intern)
-###Shadow City (Co-Owner)
+#####Makers Academy (Student)
+#####Music Concierge (Music Team)
+#####Mixmag (Paid intern)
+#####Shadow City (Co-Owner)
