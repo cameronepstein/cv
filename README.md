@@ -32,12 +32,12 @@ I am focused on building a successful career in the tech industry as its constan
 ## EDUCATION
 
 ###April 16 - Present
-Makers Academy 	Software Engineering
+Makers Academy - Software Engineering
 Back-end Development Course
 
 
 ###Sept 11 - June 14
-Birmingham City University 	BSC Film Production & Technology
+Birmingham City University - BSC Film Production & Technology
 1st Class Honours
 
 ### GCSE’s: 10 GCSES grades A*-C
