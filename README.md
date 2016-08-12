@@ -10,33 +10,41 @@ I am a passionate, enthusiastic developer, recently graduated from the Makers Ac
 
 * Agile Development
 
+Firm follower of the agile development principles. Strong belief that it not only plays a key role in developer happiness but also leads to success in business.
+
 * TDD
+
+Strong background in TDD, with experience in Rspec, Jasmine, Mocha, Chai and more.
 
 * Domain Modelling
 
+Avid enthusiast of the domain modelling process. Particularly when coordinating group ideas.
+
 * Inter-personal/Teamwork
+
+Enjoy working with and organising teams, particularly fond of pair programming.
 
 * Simplicity
 
-* Node, React, JS, HTML5, Ruby, Ruby on Rails, 
+Actively design software with single responsibility principle in mind.
+
+* Technologies
+
+Node, React, JS, HTML5, Ruby, Ruby on Rails, PSQL, SQLite, Rspec, Jasmine and more.
 
 ## Projects
 
 * [Asteroids](https://github.com/mbutlerw/arcade_games)
 
-<centre>
-
-An asteroids replica game built using only vanilla Javascript and a bunch of complicated maths!
-
-
+An asteroids replica game built using only vanilla Javascript and plenty of maths!
 
 * [Songodoro](https://github.com/Andy-Bell/songodoro)
 
-The pomodoro routine with a special musical twist.
+The pomodoro routine with an exciting musical twist.
 
 * [Makers BNB](https://github.com/vannio/makers-bnb)
 
-AirBnb clone website.
+AirBnb-esque website.
 
 * [Bowling Score Calculator](https://github.com/cameronepstein/bowling-challenge)
 
