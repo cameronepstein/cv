@@ -30,7 +30,11 @@ Actively design software with single responsibility principle in mind.
 
 * Technologies
 
-Node, React, JS, HTML5, Ruby, Ruby on Rails, PSQL, SQLite, Rspec, Jasmine and more.
+I've enjoyed learning new languages every few weeks. Despite the constant 'I know nothing' feeling ringing in my brain, I am now proficient in many technologies which I could not previously wrap my head around (Node, Rails and SQL).
+
+With this in mind I plan to continue learning as much as possible, furthering my academic and technical ability for years to come!
+
+Node, React, JS, HTML5, Ruby, Ruby on Rails, PSQL
 
 ## Projects
 
@@ -40,11 +44,11 @@ An asteroids replica game built using only vanilla Javascript and plenty of math
 
 * [Songodoro](https://github.com/Andy-Bell/songodoro)
 
-The pomodoro routine with an exciting musical twist.
+A pomodoro routine web application with an exciting musical twist. Built using React.
 
 * [Makers BNB](https://github.com/vannio/makers-bnb)
 
-AirBnb-esque website.
+AirBnb-esque website. Some pretty HTML5 and CSS.
 
 * [Bowling Score Calculator](https://github.com/cameronepstein/bowling-challenge)
 
@@ -52,11 +56,11 @@ Calculate your bowling scores with this nifty application!
 
 * [Oystercard](https://github.com/cameronepstein/oystercard)
 
-The trusted TFL smartcard.
+The trusted TFL smartcard in Ruby.
 
 * [Boris Bikes](https://github.com/cameronepstein/boris-bike)
 
-More TFL magic.
+More TFL Ruby magic.
 
 
 ## Education
