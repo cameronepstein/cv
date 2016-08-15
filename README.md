@@ -8,59 +8,59 @@ I am a passionate, enthusiastic developer, recently graduated from the Makers Ac
 
 ## Skills
 
-* Agile Development
+##### Agile Development
 
-Firm follower of the agile development principles. Strong belief that it not only plays a key role in developer happiness but also leads to success in business.
+* Firm follower of the agile development principles. Strong belief that it not only plays a key role in developer happiness but also leads to success in business.
 
-* TDD
+##### TDD
 
-Strong background in TDD with experience in Rspec, Jasmine, Mocha, Chai and more.
+* Strong background in TDD with experience in Rspec, Jasmine, Mocha, Chai and more.
 
-* Domain Modelling
+##### Domain Modelling
 
-Avid enthusiast of the domain modelling process. Particularly when coordinating group ideas.
+* Avid enthusiast of the domain modelling process. Particularly when coordinating group ideas.
 
-* Inter-personal/Teamwork
+##### Inter-personal/Teamwork
 
-Enjoy working with and organising teams, particularly fond of pair programming.
+* Enjoy working with and organising teams, particularly fond of pair programming.
 
-* Simplicity
+##### Simplicity
 
-Actively design software with single responsibility principle in mind.
+* Actively design software with single responsibility principle in mind.
 
-* New Technologies
+##### New Technologies
 
-I've enjoyed learning new languages every few weeks. Despite the constant imposter syndrome, I am now proficient in many technologies which previously seemed perplexing.
+* I've enjoyed learning new languages every few weeks. Despite the constant imposter syndrome, I am now proficient in many technologies which previously seemed perplexing.
 
-I have taken on Node and Rails for web apps, database languages like SQL, and a variety of front-end languages over the past year (HTML5, CSS, Sass). Essentially this sustained problem solving has provided me with a constant thirst for new exciting tech!  
+  I have taken on Node and Rails for web apps, database languages like SQL, and a variety of front-end languages over the past year (HTML5, CSS, Sass). Essentially this sustained problem solving has provided me with a constant thirst for new exciting tech!  
 
-With this in mind I aim to continue learning as much as possible in my next career, furthering my academic and technical ability as well as working on new exciting projects over the coming years.
+  With this in mind I aim to continue learning as much as possible in my next career, furthering my academic and technical ability as well as working on new exciting projects over the coming years.
 
 ## Projects
 
-* [Asteroids](https://github.com/mbutlerw/arcade_games)
+ [Asteroids](https://github.com/mbutlerw/arcade_games)
 
-An asteroids replica game built using only vanilla Javascript and plenty of maths!
+* An asteroids replica game built using only vanilla Javascript and plenty of maths!
 
-* [Songodoro](https://github.com/Andy-Bell/songodoro)
+[Songodoro](https://github.com/Andy-Bell/songodoro)
 
-A pomodoro routine web application with an exciting musical twist. Built using React.
+* A pomodoro routine web application with an exciting musical twist. Built using React.
 
-* [Makers BNB](https://github.com/vannio/makers-bnb)
+[Makers BNB](https://github.com/vannio/makers-bnb)
 
-AirBnb-esque website. Some pretty HTML5 and CSS.
+* AirBnb-esque website. Some pretty HTML5 and CSS.
 
-* [Bowling Score Calculator](https://github.com/cameronepstein/bowling-challenge)
+[Bowling Score Calculator](https://github.com/cameronepstein/bowling-challenge)
 
-Calculate your bowling scores with this nifty application!
+* Calculate your bowling scores with this nifty application!
 
-* [Oystercard](https://github.com/cameronepstein/oystercard)
+[Oystercard](https://github.com/cameronepstein/oystercard)
 
-The trusted TFL smartcard in Ruby.
+* The trusted TFL smartcard in Ruby.
 
-* [Boris Bikes](https://github.com/cameronepstein/boris-bike)
+[Boris Bikes](https://github.com/cameronepstein/boris-bike)
 
-More TFL Ruby magic.
+* More TFL Ruby magic.
 
 
 ## Education
