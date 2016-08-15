@@ -2,35 +2,35 @@
 
 After working as a music sourcer and curator I am focused on building a new career in the technology industry. I truly feel that its constantly evolving, creative environment will give me an opportunity to best utilise the qualities that I posses.
 
-I am a passionate, enthusiastic developer, recently graduated from the Makers Academy course, with good inter-personal skills and a firm belief that I would thrive as a junior developer.
+I am a passionate, enthusiastic developer, recently graduated from the [Makers Academy](http://www.makersacademy.com/) course, with good inter-personal skills and a firm belief that I would thrive as a junior developer.
 
-[Skills](#Skills) // [Projects](#Projects) // [Education](#Education) // [Experience](#Experience)
+[Skills](#skills) // [Projects](#projects) // [Education](#education) // [Experience](#experience)
 
 ## Skills
 
 ##### Agile Development
 
-* Firm follower of the agile development principles. Strong belief that it not only plays a key role in developer happiness but also leads to success in business.
+Firm follower of the agile development principles. Strong belief that it not only plays a key role in developer happiness but also leads to success in business.
 
 ##### TDD
 
-* Strong background in TDD with experience in Rspec, Jasmine, Mocha, Chai and more.
+Strong background in TDD with experience in Rspec, Jasmine, Mocha, Chai and more.
 
 ##### Domain Modelling
 
-* Avid enthusiast of the domain modelling process. Particularly when coordinating group ideas.
+Avid enthusiast of the domain modelling process. Particularly when coordinating group ideas.
 
 ##### Inter-personal/Teamwork
 
-* Enjoy working with and organising teams, particularly fond of pair programming.
+Enjoy working with and organising teams, particularly fond of pair programming.
 
 ##### Simplicity
 
-* Actively design software with single responsibility principle in mind.
+Actively design software with single responsibility principle in mind.
 
 ##### New Technologies
 
-* I've enjoyed learning new languages every few weeks. Despite the constant imposter syndrome, I am now proficient in many technologies which previously seemed perplexing.
+I've enjoyed learning new languages every few weeks. Despite the constant imposter syndrome, I am now proficient in many technologies which previously seemed perplexing.
 
   I have taken on Node and Rails for web apps, database languages like SQL, and a variety of front-end languages over the past year (HTML5, CSS, Sass). Essentially this sustained problem solving has provided me with a constant thirst for new exciting tech!  
 
@@ -84,3 +84,20 @@ I am a passionate, enthusiastic developer, recently graduated from the Makers Ac
 - Mixmag (Intern / Freelance Journalist)
 
 - Shadow City (Co-Owner)
+
+## Interests
+
+##### Music
+
+I am absolutely fanatical about music. In particular I enjoy [jazz](https://www.youtube.com/watch?v=Y_5a6OkyBaY), [reggae](https://www.youtube.com/watch?v=LTK99CNnORQ), [rock](https://www.youtube.com/watch?v=rXwMrBb2x1Q) and [the classics](https://www.youtube.com/watch?v=rXwMrBb2x1Q). I am addicted to record shopping and regularly curate playlists/mixes for personal or professional use.  
+
+I am a passionate DJ/producer and regularly perform live. I have played at events like MADE, Hospitality, FACE, Annie Mac Presents and festivals such as Outlook, Dimensions and Global Gathering. Additionally, I am currently working on a concept album and graphic novel under the name Last Man on Earth.
+
+##### Film/Drama
+
+After my university course I have become a huge fan of modern and classical film.
+My favourite directors include Stanley Kubrick, Wes Anderson and Sebastian Silva.
+
+##### Blog
+
+I am currently working on a [ technology blog](https://computer-love.com/), based loosely on the 1981 Kraftwerk track [Computer Love](https://www.youtube.com/watch?v=ZtWTUt2RZh0).
