@@ -14,7 +14,7 @@ Firm follower of the agile development principles. Strong belief that it not onl
 
 * TDD
 
-Strong background in TDD, with experience in Rspec, Jasmine, Mocha, Chai and more.
+Strong background in TDD with experience in Rspec, Jasmine, Mocha, Chai and more.
 
 * Domain Modelling
 
@@ -28,13 +28,13 @@ Enjoy working with and organising teams, particularly fond of pair programming.
 
 Actively design software with single responsibility principle in mind.
 
-* Technologies
+* New Technologies
 
-I've enjoyed learning new languages every few weeks. Despite the constant 'I know nothing' feeling ringing in my brain, I am now proficient in many technologies which I could not previously wrap my head around (Node, Rails and SQL).
+I've enjoyed learning new languages every few weeks. Despite the constant imposter syndrome, I am now proficient in many technologies which previously seemed perplexing.
 
-With this in mind I plan to continue learning as much as possible, furthering my academic and technical ability for years to come!
+I have taken on Node and Rails for web apps, database languages like SQL, and a variety of front-end languages over the past year (HTML5, CSS, Sass). Essentially this sustained problem solving has provided me with a constant thirst for new exciting tech!  
 
-Node, React, JS, HTML5, Ruby, Ruby on Rails, PSQL
+With this in mind I aim to continue learning as much as possible in my next career, furthering my academic and technical ability as well as working on new exciting projects over the coming years.
 
 ## Projects
 
