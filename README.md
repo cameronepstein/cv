@@ -1,10 +1,10 @@
 # Cameron Epstein
 
-Since working as a music sourcer and talent scout I have decided to broaden my horizons and focus on building a new career in the technology industry.
+Since working as a music sourcer and talent scout, I have decided to broaden my horizons and focus on building a new career in the technology industry.
 
 After one of the most academically challenging years of my life I've graduated from [Makers Academy](http://www.makersacademy.com/) with an unshaken belief that the constantly evolving, creative environment in tech will allow me to best utilise the qualities I posses.
 
-After hard work, fantastic mentorship and a tonne of projects I'm now a software developer. I enjoy working in teams, have great inter-personal skills and truly believe I will thrive as a junior dev.
+I enjoy working in teams, have great inter-personal skills and truly believe I will thrive as a junior developer.
 
 Most importantly, I couldn't be more excited about the journey ahead!
 
