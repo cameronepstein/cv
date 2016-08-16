@@ -1,8 +1,13 @@
 # Cameron Epstein
 
-After working as a music sourcer and curator I am focused on building a new career in the technology industry. I truly feel that its constantly evolving, creative environment will give me an opportunity to best utilise the qualities that I posses.
+Since working as a music sourcer and talent scout I have decided to broaden my horizons and focus on building a new career in the technology industry.
 
-I am a passionate, enthusiastic developer, recently graduated from the [Makers Academy](http://www.makersacademy.com/) course, with good inter-personal skills and a firm belief that I would thrive as a junior developer.
+After one of the most academically challenging years of my life I've graduated from [Makers Academy](http://www.makersacademy.com/) with an unshaken belief that the constantly evolving, creative environment in tech will allow me to best utilise the qualities I posses.
+
+After hard work, fantastic mentorship and a tonne of projects I'm now a software developer. I enjoy working in teams, have great inter-personal skills and truly believe I will thrive as a junior dev.
+
+Most importantly, I couldn't be more excited about the journey ahead!
+
 
 [Skills](#skills) // [Projects](#projects) // [Education](#education) // [Experience](#experience)
 
@@ -10,11 +15,11 @@ I am a passionate, enthusiastic developer, recently graduated from the [Makers A
 
 ##### Agile Development
 
-Firm follower of the agile development principles. Strong belief that it not only plays a key role in developer happiness but also leads to success in business.
+Firm follower of the agile development principles. Strong belief that they not only play a key role in developer happiness but also lead to success in business.
 
 ##### TDD
 
-Strong background in TDD with experience in Rspec, Jasmine, Mocha, Chai and more.
+Strong background in TDD, with experience in Rspec, Jasmine, Mocha, Chai and more.
 
 ##### Domain Modelling
 
@@ -32,9 +37,9 @@ Actively design software with single responsibility principle in mind.
 
 I've enjoyed learning new languages every few weeks. Despite the constant imposter syndrome, I am now proficient in many technologies which previously seemed perplexing.
 
-  I have taken on Node and Rails for web apps, database languages like SQL, and a variety of front-end languages over the past year (HTML5, CSS, Sass). Essentially this sustained problem solving has provided me with a constant thirst for new exciting tech!  
+  I have taken on Node and Rails for web apps, database languages like SQL, and a variety of front-end languages over the past year (HTML5, CSS, Sass).
 
-  With this in mind I aim to continue learning as much as possible in my next career, furthering my academic and technical ability as well as working on new exciting projects over the coming years.
+  Essentially this sustained problem solving has provided me with a constant thirst for new exciting tech!  With this in mind I aim to continue learning as much as possible in my next career, enhancing my academic and technical ability as well as working on new exciting projects.
 
 ## Projects
 
@@ -89,9 +94,9 @@ I've enjoyed learning new languages every few weeks. Despite the constant impost
 
 ##### Music
 
-I am absolutely fanatical about music. In particular I enjoy [jazz](https://www.youtube.com/watch?v=Y_5a6OkyBaY), [reggae](https://www.youtube.com/watch?v=LTK99CNnORQ), [rock](https://www.youtube.com/watch?v=rXwMrBb2x1Q) and [the classics](https://www.youtube.com/watch?v=rXwMrBb2x1Q). I am addicted to record shopping and regularly curate playlists/mixes for personal or professional use.  
+I am absolutely fanatical about music. In particular I enjoy [jazz](https://www.youtube.com/watch?v=Y_5a6OkyBaY), [reggae](https://www.youtube.com/watch?v=LTK99CNnORQ), [rock](https://www.youtube.com/watch?v=rXwMrBb2x1Q) and [a variety of classics](https://www.youtube.com/watch?v=rXwMrBb2x1Q). I am addicted to record shopping and regularly curate playlists/mixes for personal or professional use.  
 
-I am a passionate DJ/producer and regularly perform live. I have played at events like MADE, Hospitality, FACE, Annie Mac Presents and festivals such as Outlook, Dimensions and Global Gathering. Additionally, I am currently working on a concept album and graphic novel under the name Last Man on Earth.
+I am a passionate DJ/producer and regularly perform live. I have played at events like MADE, Hospitality, FACE, Annie Mac Presents and festivals like Outlook, Dimensions and Global Gathering. Additionally, I am currently working on a concept album and graphic novel under the name Last Man on Earth.
 
 ##### Film/Drama
 
