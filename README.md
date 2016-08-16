@@ -94,7 +94,7 @@ I've enjoyed learning new languages every few weeks. Despite the constant impost
 
 ##### Music
 
-I am absolutely fanatical about music. In particular I enjoy [jazz](https://www.youtube.com/watch?v=Y_5a6OkyBaY), [reggae](https://www.youtube.com/watch?v=LTK99CNnORQ), [rock](https://www.youtube.com/watch?v=rXwMrBb2x1Q) and [a variety of classics](https://www.youtube.com/watch?v=rXwMrBb2x1Q). I am addicted to record shopping and regularly curate playlists/mixes for personal or professional use.  
+I am absolutely fanatical about music. In particular I enjoy [jazz/funk](https://www.youtube.com/watch?v=Y_5a6OkyBaY), [reggae](https://www.youtube.com/watch?v=LTK99CNnORQ), [rock](https://www.youtube.com/watch?v=rXwMrBb2x1Q) and [a variety of classics](https://www.youtube.com/watch?v=pJV2pWFyfn4). I am addicted to record shopping and regularly curate playlists/mixes for personal or professional use.  
 
 I am a passionate DJ/producer and regularly perform live. I have played at events like MADE, Hospitality, FACE, Annie Mac Presents and festivals like Outlook, Dimensions and Global Gathering. Additionally, I am currently working on a concept album and graphic novel under the name Last Man on Earth.
 
