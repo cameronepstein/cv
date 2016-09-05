@@ -13,27 +13,27 @@ Most importantly, I couldn't be more excited about the journey ahead!
 
 ## Skills
 
-##### Agile Development
+##### Agile Development :chart_with_upwards_trend:
 
 Firm follower of the agile development principles. Strong belief that they not only play a key role in developer happiness but also lead to success in business.
 
-##### TDD
+##### TDD :traffic_light:
 
 Strong background in TDD, with experience in Rspec, Jasmine, Mocha, Chai and more.
 
-##### Domain Modelling
+##### Domain Modelling :rocket:
 
 Avid enthusiast of the domain modelling process. Particularly when coordinating group ideas.
 
-##### Inter-personal/Teamwork
+##### Inter-personal/Teamwork :city_sunrise:
 
 Enjoy working with and organising teams, particularly fond of pair programming.
 
-##### Simplicity
+##### Simplicity :nut_and_bolt:
 
 Actively design software with single responsibility principle in mind.
 
-##### New Technologies
+##### New Technologies :iphone:
 
 I've enjoyed learning new languages every few weeks. Despite the constant imposter syndrome, I am now proficient in many technologies which previously seemed perplexing.
 
