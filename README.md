@@ -13,6 +13,14 @@ Most importantly, I couldn't be more excited about the journey ahead!
 
 ## Skills
 
+##### New Technologies :iphone:
+
+I've enjoyed learning new languages every few weeks. Despite the constant imposter syndrome, I am now proficient in many technologies which previously seemed perplexing.
+
+  I have taken on Node and Rails for web apps, database languages like SQL, and a variety of front-end languages over the past year (HTML5, CSS, Sass).
+
+  Essentially this sustained problem solving has provided me with a constant thirst for new exciting tech!  With this in mind I aim to continue learning as much as possible in my next career, enhancing my academic and technical ability as well as working on new exciting projects.
+
 ##### Agile Development :chart_with_upwards_trend:
 
 Firm follower of the agile development principles. Strong belief that they not only play a key role in developer happiness but also lead to success in business.
@@ -32,14 +40,6 @@ Enjoy working with and organising teams, particularly fond of pair programming.
 ##### Simplicity :nut_and_bolt:
 
 Actively design software with single responsibility principle in mind.
-
-##### New Technologies :iphone:
-
-I've enjoyed learning new languages every few weeks. Despite the constant imposter syndrome, I am now proficient in many technologies which previously seemed perplexing.
-
-  I have taken on Node and Rails for web apps, database languages like SQL, and a variety of front-end languages over the past year (HTML5, CSS, Sass).
-
-  Essentially this sustained problem solving has provided me with a constant thirst for new exciting tech!  With this in mind I aim to continue learning as much as possible in my next career, enhancing my academic and technical ability as well as working on new exciting projects.
 
 ## Projects
 
